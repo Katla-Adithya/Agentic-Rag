@@ -12,3 +12,6 @@ wheels/
 .env
 .venv/
 __pycache__/
+
+# ChromaDB
+.chroma/
